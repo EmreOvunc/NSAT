@@ -1,5 +1,7 @@
 # NSAT was a LEGEND (2016-2017) !
 
+It aims to generate network packet and attack and also detect network attacks on your network. 
+
 ![alt tag](https://s8.postimg.org/ta8dvd76d/NSAT_Team.jpg)
 
 ## User Manual
