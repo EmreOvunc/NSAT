@@ -1,4 +1,4 @@
-# Network Security Assessment Tool
+# NSAT was a LEGEND (2016-2017) !
 
 ![alt tag](https://s8.postimg.org/ta8dvd76d/NSAT_Team.jpg)
 
@@ -8,7 +8,7 @@ https://github.com/EmreOvunc/Senior-Project-Network-Scanner/blob/master/User-Man
 
 ![alt tag](https://s30.postimg.org/w797cmd35/NSAT-_GUI.png)
 
-![alt tag](http://emreovunc.com/projects/NSAT-Project.png)
+![alt tag](https://s2.postimg.org/5bq467dux/NSAT-_Project.png)
 
 ## Requirements
 
@@ -53,7 +53,7 @@ packets and benign packets for the threat identification processes. Following th
 identification, threat/attack classification will be performed in order to build a dictionary of
 threats and attacks for further studies.
 
-![alt tag](https://emreovunc.com/projects/NSAT-UseCase.png)
+![alt tag](https://s2.postimg.org/uvsec2txl/NSAT-_Use_Case.png)
 
 # Details
 
