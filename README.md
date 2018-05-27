@@ -2,15 +2,14 @@
 
 It aims to generate network packet and attack and also detect network attacks on your network. 
 
-![alt tag](https://s8.postimg.org/ta8dvd76d/NSAT_Team.jpg)
+![alt tag](https://emreovunc.com/projects/NSAT-Team.jpeg)
 
 ## User Manual
-https://github.com/EmreOvunc/Senior-Project-Network-Scanner/blob/master/User-Manual.pdf
+https://github.com/EmreOvunc/NSAT/blob/master/User-Manual.pdf
 
+![alt tag](https://emreovunc.com/projects/NSAT-Gui.jpg)
 
-![alt tag](https://s30.postimg.org/w797cmd35/NSAT-_GUI.png)
-
-![alt tag](https://s2.postimg.org/5bq467dux/NSAT-_Project.png)
+![alt tag](https://emreovunc.com/projects/NSAT-Hardware.jpg)
 
 ## Requirements
 
@@ -55,7 +54,7 @@ packets and benign packets for the threat identification processes. Following th
 identification, threat/attack classification will be performed in order to build a dictionary of
 threats and attacks for further studies.
 
-![alt tag](https://s2.postimg.org/uvsec2txl/NSAT-_Use_Case.png)
+![alt tag](https://emreovunc.com/projects/NSAT-Terminal.jpg)
 
 # Details
 
